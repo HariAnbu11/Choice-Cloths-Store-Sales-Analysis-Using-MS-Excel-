@@ -1,0 +1,2 @@
+# Choice-Cloths-Store-Sales-Analysis-Using-MS-Excel-
+Cleaned, processed, and analyzed sales data, creating an interactive dashboard for insights. Identified key trends: women aged 30-49 made up 65% of sales, and top states (Maharashtra, Karnataka, Uttar Pradesh) contributed 35% of revenue. Recommended targeted promotions on e-commerce platforms (Amazon, Flipkart, Myntra), which drove 80% of sales.
